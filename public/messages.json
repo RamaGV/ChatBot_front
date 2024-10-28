@@ -1,0 +1,20 @@
+{
+    "1": [
+      { "id": 1, "senderId": 1, "text": "Hola, ¿cómo estás?", "timestamp": "10:30" },
+      { "id": 2, "senderId": "me", "text": "¡Hola! Estoy bien, gracias. ¿Y tú?", "timestamp": "10:31" },
+      { "id": 3, "senderId": 1, "text": "Muy bien también. ¿Qué planes tienes para hoy?", "timestamp": "10:32" },
+      { "id": 4, "senderId": "me", "text": "Voy a trabajar en un proyecto. ¿Y tú?", "timestamp": "10:33" }
+    ],
+    "2": [
+      { "id": 1, "senderId": 2, "text": "¿Nos vemos mañana?", "timestamp": "09:15" },
+      { "id": 2, "senderId": "me", "text": "Sí, claro. ¿A qué hora?", "timestamp": "09:20" },
+      { "id": 3, "senderId": 2, "text": "¿Te parece bien a las 3 PM?", "timestamp": "09:22" },
+      { "id": 4, "senderId": "me", "text": "Perfecto, nos vemos a las 3 PM.", "timestamp": "09:25" }
+    ],
+    "3": [
+      { "id": 1, "senderId": 3, "text": "Gracias por la información", "timestamp": "Ayer" },
+      { "id": 2, "senderId": "me", "text": "De nada, espero que te sea útil.", "timestamp": "Ayer" },
+      { "id": 3, "senderId": 3, "text": "Sí, me ha ayudado mucho. ¿Podríamos hablar más sobre esto mañana?", "timestamp": "Ayer" },
+      { "id": 4, "senderId": "me", "text": "Claro, cuando quieras.", "timestamp": "Ayer" }
+    ]
+  }
